@@ -27,7 +27,6 @@ body{
             display: flex;
             justify-content: center;
             align-items: center;
-            align-items: unset;
             height: 80vh;
         }
         .button {
